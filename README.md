@@ -3,7 +3,7 @@
 **Shor's algorithm** is a quantum algorithm for efficiently factoring large integers, threatening classical encryption methods such as RSA. The core idea involves finding the period \( r \) of the function (which is the smallest integer that satisfies:
 
 $$
-f(x)=s^x \mod N
+f(x)=a^x \mod N
 $$
 
 where:
